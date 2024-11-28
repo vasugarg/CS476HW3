@@ -1,7 +1,3 @@
-Certainly! I'll update your `README.md` to include the additional changes discussed earlier and provide detailed explanations for each new feature and modification. The updated README will reflect the latest features and improvements in your FuzzyLang project.
-
----
-
 # FuzzyLang
 
 ## Overview
